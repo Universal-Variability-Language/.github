@@ -8,7 +8,7 @@ Welcome to the **Universal Variability Language (UVL)** organization on GitHub!
 
 UVL is a concise, extensible language for modeling variability in software product lines.  
 This organization houses multiple related projects that support the definition, parsing, tooling, and ecosystem around UVL.  
-See our public site: https://universal-variability-language.github.io/ :contentReference[oaicite:0]{index=0}
+See our public site: https://universal-variability-language.github.io/
 
 ### Key Repositories
 
@@ -87,7 +87,3 @@ If you are new, here’s how to begin:
 - Language enhancement proposals via `UVLEP`
 
 ---
-
-We hope this organization structure and governance help contributors, maintainers, and users alike to better engage with the UVL ecosystem.  
-If you’d like changes, further sections (e.g. roadmap, release schedule, maintainers list), or a more customized style (Badges, visuals), I’m happy to iterate.
-::contentReference[oaicite:9]{index=9}
